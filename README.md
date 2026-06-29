@@ -8,21 +8,34 @@ GameVerse is a responsive static website developed using HTML, CSS, Bootstrap, a
 
 2.Project Objective
 ●To design a modern and responsive gaming website.
+
 ●To display game reviews and ratings in an organized manner.
+
 ●To showcase upcoming game releases.
+
 ●To provide access to game trailers.
+
 ●To improve front-end web development skills using Bootstrap and CSS.
 
 3.Features
 🎮 Responsive navigation bar
+
 🏠 Hero section with animated typing effect
+
 ℹ️ About Us section
+
 📝 Static game reviews
+
 ⭐ Game ratings displayed using a slider
+
 🚀 Upcoming game releases with a Bootstrap carousel
+
 🎥 Trailer section
+
 📱 Mobile-friendly responsive design
+
 ✨ Smooth animations and hover effects
+
 ⬆️ Scroll-to-top button
 
 4.Conclusion
